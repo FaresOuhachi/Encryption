@@ -1,0 +1,10 @@
+File,Decryption Time(s)
+./Files//file_100M,.168320667
+./Files//file_1024M,33.759740410
+./Files//file_10M,.019497398
+./Files//file_2048M,62.845013615
+./Files//file_250M,.754762237
+./Files//file_25M,.040190125
+./Files//file_50M,.075889235
+./Files//file_5M,.010427819
+./Files//file_750M,10.812851589

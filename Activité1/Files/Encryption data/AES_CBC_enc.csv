@@ -1,0 +1,10 @@
+File,Encryption Time(s)
+./Files//file_100M,1.579053117
+./Files//file_1024M,30.723899256
+./Files//file_10M,.545079533
+./Files//file_2048M,55.536365517
+./Files//file_250M,3.747643914
+./Files//file_25M,.722407397
+./Files//file_50M,.772538186
+./Files//file_5M,.112818927
+./Files//file_750M,18.286505704
